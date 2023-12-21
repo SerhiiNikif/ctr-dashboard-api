@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-## 3. Download zip file
+## 4. Download zip file
 Download the zip file to the __src/data__ folder with the following structure:
 
 __events.zip__
@@ -36,7 +36,7 @@ __events.zip__
   sessions_2023-12-12_1.csv
 ```
 
-## 4. Play with APIs now !
+## 5. Play with APIs now !
 > Please make sure mongoDB Server service is installed and running on your localhost:27017.
 
 Now, you are ready to test all APIs.
